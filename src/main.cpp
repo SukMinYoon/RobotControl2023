@@ -13,6 +13,8 @@ RB1_500E _rb;
 void gazebo::RB1_500E::Load(physics::ModelPtr _model, sdf::ElementPtr /*_sdf*/)
 {
 
+
+
     /*
      * Loading model data and initializing the system before simulation 
      */
